@@ -11,5 +11,5 @@ class SampleFeatureController with ChangeNotifier {
   List<PhoneNumDM> get items => _items;
 
   // TODO: Implement fetchData
-  void fetchData() async {}
+  void fetchData() {}
 }
