@@ -1,0 +1,1 @@
+ /Users/home/projects/interview/flutter_sample/lib/src/localization/app_localizations_en.dart /Users/home/projects/interview/flutter_sample/lib/src/localization/app_localizations.dart:  /Users/home/projects/interview/flutter_sample/l10n.yaml /Users/home/projects/interview/flutter_sample/lib/src/localization/app_en.arb
